@@ -29,4 +29,21 @@ fully documented and traceable.
 
 https://docs.google.com/spreadsheets/d/14Ie1tmEgvrdeNwjITm4T32MJ_n1lQiGDEQkyVZhSpWw/edit?usp=sharing
 
+# Discovery Questions
 
+## Sigma's
+
+- Which steps in debt recovery are high-volume and rules-driven enough for self-service?
+- Where do spreadsheets and manual handoffs create duplicate work?
+- Which baseline metrics best show operational waste and revenue leakage?
+
+## Matheus's
+
+- What systems are in place for recording and storing manual queues and trackers?
+- For cases with regulatory issues, how far can they be taken online before an agent
+    has to step in?
+- What are the standout metrics from cases with the highest turn-over time?
+- What are the most common themes in customer complaints?
+- Which processes that aren't human-centric do agents spend the most time on?
+- Which processes that aren't human centric do agents spend the least time on?
+- By what metric are delinquent accounts prioritised?
