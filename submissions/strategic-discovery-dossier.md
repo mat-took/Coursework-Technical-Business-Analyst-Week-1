@@ -25,4 +25,8 @@ system. Additionally, we need their associated savings, and the assumptions that
 will require trust from leadership. This must all be packaged in a way that is 
 fully documented and traceable.
 
+# Stakeholder Overview
+
+https://docs.google.com/spreadsheets/d/14Ie1tmEgvrdeNwjITm4T32MJ_n1lQiGDEQkyVZhSpWw/edit?usp=sharing
+
 

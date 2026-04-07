@@ -1,0 +1,31 @@
+note_id,stakeholder_name,stakeholder_role,theme,quote_or_observation,impact_area,confidence_level
+SN-001,Amina Rahman,Head of Debt Recovery Operations,customer_friction,Straightforward cases are delayed because manual queues and trackers do not agree.,adoption_risk,Medium
+SN-002,Daniel Okoye,Finance Business Partner,financial_credibility,Agents spend too much time proving whether work already happened before they can act.,operational_control,Medium
+SN-003,Priya Nair,Product Manager,reporting_visibility,Agents spend too much time proving whether work already happened before they can act.,delivery_feasibility,High
+SN-004,Gareth Evans,Senior Collections Team Leader,scope_discipline,Managers need a clear view of whether self-service actually reduces workload.,delivery_feasibility,Medium
+SN-005,Tracy Field,Compliance Liaison,reporting_visibility,Straightforward cases are delayed because manual queues and trackers do not agree.,cost_and_efficiency,Low
+SN-006,Sylvia Turner,Operations Analyst,duplicate_work,Managers need a clear view of whether self-service actually reduces workload.,adoption_risk,Medium
+SN-007,Lawrence Bennett,Collections Agent,routing_control,Leadership will challenge every assumption in the value case.,delivery_feasibility,High
+SN-008,Andrea Hunt,Finance Analyst,missed_follow_up,Some cases must stay agent-led because risk and specialist rules still apply.,delivery_feasibility,Low
+SN-009,Kimberley Richards-Stokes,Service Design Lead,missed_follow_up,Managers need a clear view of whether self-service actually reduces workload.,cost_and_efficiency,Medium
+SN-010,Mr Philip Stone,Service Design Lead,duplicate_work,Straightforward cases are delayed because manual queues and trackers do not agree.,revenue,High
+SN-011,Christopher Richards,Collections Agent,duplicate_work,"If unsupported cases come back with no context, agents will reject the portal.",delivery_feasibility,High
+SN-012,Ms Andrea Lamb,Collections Agent,reporting_visibility,Straightforward cases are delayed because manual queues and trackers do not agree.,delivery_feasibility,Low
+SN-013,Mathew Barlow-Knight,Collections Agent,financial_credibility,Managers need a clear view of whether self-service actually reduces workload.,operational_control,Medium
+SN-014,Stewart Howell,Operations Analyst,reporting_visibility,Some cases must stay agent-led because risk and specialist rules still apply.,cost_and_efficiency,Medium
+SN-015,Simon Burns,Compliance Liaison,reporting_visibility,Straightforward cases are delayed because manual queues and trackers do not agree.,adoption_risk,Medium
+SN-016,Mr Dale Jackson,Collections Agent,routing_control,Leadership will challenge every assumption in the value case.,customer_experience,Medium
+SN-017,Eleanor Clark,Service Design Lead,scope_discipline,"If unsupported cases come back with no context, agents will reject the portal.",adoption_risk,High
+SN-018,Daniel Farmer,Finance Analyst,change_resistance,Agents spend too much time proving whether work already happened before they can act.,customer_experience,Low
+SN-019,Mr Martyn Akhtar,Operations Analyst,missed_follow_up,Customers should be able to understand what they owe without calling first.,cost_and_efficiency,Medium
+SN-020,Ronald Rees,Collections Agent,routing_control,Customers should be able to understand what they owe without calling first.,adoption_risk,Low
+SN-021,Clare Willis,Service Design Lead,missed_follow_up,Agents spend too much time proving whether work already happened before they can act.,adoption_risk,Low
+SN-022,Rebecca Davis,Compliance Liaison,scope_discipline,Leadership will challenge every assumption in the value case.,customer_experience,Medium
+SN-023,Dr Louis Sinclair,Service Design Lead,duplicate_work,"If unsupported cases come back with no context, agents will reject the portal.",customer_experience,High
+SN-024,Dr Laura Roberts,Compliance Liaison,duplicate_work,"If unsupported cases come back with no context, agents will reject the portal.",operational_control,Low
+SN-025,Dr Lynda Smith,Operations Analyst,financial_credibility,"If unsupported cases come back with no context, agents will reject the portal.",customer_experience,Low
+SN-026,Katherine Taylor-Evans,Finance Analyst,reporting_visibility,Leadership will challenge every assumption in the value case.,operational_control,Medium
+SN-027,Karl Lewis-Warren,Operations Analyst,scope_discipline,Agents spend too much time proving whether work already happened before they can act.,adoption_risk,Medium
+SN-028,Diana White,Collections Agent,change_resistance,Agents spend too much time proving whether work already happened before they can act.,revenue,Low
+SN-029,Barry Skinner,Operations Analyst,financial_credibility,Managers need a clear view of whether self-service actually reduces workload.,revenue,High
+SN-030,Jacqueline Norris,Operations Analyst,scope_discipline,Some cases must stay agent-led because risk and specialist rules still apply.,operational_control,Medium
