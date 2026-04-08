@@ -56,7 +56,7 @@ https://docs.google.com/spreadsheets/d/1Cib9y8RW-p1i7XAMoUkR-HS-fZtr3c4_tZPDxI8K
 # Problem statement
 
 Legacy-Trust bank has lost visibility of their delinquent accounts following a
-company-wide scale up. Old, disconnected systems for storing data have become a
+company-wide scale-up. Old, disconnected systems for storing data have become a
 burden to agents, who spent a lot of time sifting through them, which carries over
 to the customers as inconsistent information. This is contributing to a 15% revenue
 loss, and could be a compliance issue when the company is audited.
@@ -67,3 +67,10 @@ achieved through as-is and to-be processes which must have routed case context
 visibility. Finance needs defensible assumptions to be confident about the project,
 which can be expressed in an ROI model, and together with Product, they require
 clear documentation across all the work done, which means documenting builds and workflows.
+
+## talk about context of legacy trust bank
+## how have they become a burden to agents
+## what happens to those accounts
+## flag stats as an estimate from PERSON
+## problem statement should have "NEED" not "SOLUTION"
+## trained otters is a feasible business practice
