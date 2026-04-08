@@ -4,13 +4,12 @@ CREATE DATABASE legacy_trust_bank;
 
 \c legacy_trust_bank;
 
--- 1. Table for Delinquent Accounts
 DROP TABLE IF EXISTS delinquent_accounts;
 
 CREATE TABLE delinquent_accounts (
     account_id VARCHAR(20) PRIMARY KEY,
     customer_id VARCHAR(20),
-    customer_name VARCHAR(100), -- NEW: Added to match your data
+    customer_name VARCHAR(100),
     product_type VARCHAR(50),
     delinquency_stage VARCHAR(20),
     days_past_due INTEGER,
@@ -30,7 +29,6 @@ CREATE TABLE delinquent_accounts (
 
 SET datestyle = 'ISO, DMY';
 
--- 2. Table for Finance Assumptions
 DROP TABLE IF EXISTS finance_assumptions;
 
 CREATE TABLE finance_assumptions (
@@ -45,7 +43,6 @@ CREATE TABLE finance_assumptions (
 
 \copy finance_assumptions FROM 'data/aws/finance_assumptions.csv' WITH (FORMAT csv, HEADER true);
 
--- 3. Table for Recovery Activity Tracker
 DROP TABLE IF EXISTS recovery_activity_tracker;
 
 CREATE TABLE recovery_activity_tracker (
@@ -63,7 +60,6 @@ CREATE TABLE recovery_activity_tracker (
 
 \copy recovery_activity_tracker FROM 'data/aws/recovery_activity_tracker.csv' WITH (FORMAT csv, HEADER true);
 
--- 4. Table for Stakeholder Interview Notes
 DROP TABLE IF EXISTS stakeholder_interview_notes;
 
 CREATE TABLE stakeholder_interview_notes (
@@ -78,7 +74,6 @@ CREATE TABLE stakeholder_interview_notes (
 
 \copy stakeholder_interview_notes FROM 'data/aws/stakeholder_interview_notes.csv' WITH (FORMAT csv, HEADER true);
 
--- 5. Table for Customer Journey Events
 DROP TABLE IF EXISTS customer_journey_events;
 
 CREATE TABLE customer_journey_events (

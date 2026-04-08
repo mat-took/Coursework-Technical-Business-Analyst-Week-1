@@ -25,9 +25,11 @@ system. Additionally, we need their associated savings, and the assumptions that
 will require trust from leadership. This must all be packaged in a way that is 
 fully documented and traceable.
 
+
 # Stakeholder Overview
 
 https://docs.google.com/spreadsheets/d/14Ie1tmEgvrdeNwjITm4T32MJ_n1lQiGDEQkyVZhSpWw/edit?usp=sharing
+
 
 # Discovery Questions
 
@@ -47,3 +49,8 @@ https://docs.google.com/spreadsheets/d/14Ie1tmEgvrdeNwjITm4T32MJ_n1lQiGDEQkyVZhS
 - Which processes that aren't human-centric do agents spend the most time on?
 - Which processes that aren't human centric do agents spend the least time on?
 - By what metric are delinquent accounts prioritised?
+
+
+# Traceability Starter Table
+
+https://docs.google.com/spreadsheets/d/1Cib9y8RW-p1i7XAMoUkR-HS-fZtr3c4_tZPDxI8K3Hc/edit?usp=sharing
