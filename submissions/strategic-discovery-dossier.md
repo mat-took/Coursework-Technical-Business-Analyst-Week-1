@@ -25,6 +25,9 @@ operational costs in the long term through a more accessible and centralised col
 
 # Stakeholder Overview
 
+This is my "master" spreadsheet. If you can't access another table in my submissions,
+it can probably be found here.
+
 https://docs.google.com/spreadsheets/d/14Ie1tmEgvrdeNwjITm4T32MJ_n1lQiGDEQkyVZhSpWw/edit?usp=sharing
 
 
